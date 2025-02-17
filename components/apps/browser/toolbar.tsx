@@ -102,7 +102,7 @@ export const BrowserToolbar = () => {
         size="icon"
         onClick={() =>
           goHome(() => {
-            setValue("url", "https://www.anuragkochar.com");
+            setValue("url", "https://www.google.com");
           })
         }
         className="h-8 w-8"
